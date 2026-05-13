@@ -2,15 +2,11 @@
 
 First-year CS student at the University of Toronto. Mostly interested in AI and the messy parts of building real software with it.
 
-- 🧠 **Currently learning** — building transformers from scratch with Karpathy's *Neural Networks: Zero to Hero*, and getting hands-on with small fine-tuned LLMs.
+- 🧠 **Currently learning** — building small tools with LLM APIs and getting better at understanding what's actually happening under the hood.
 - 🛠️ **Currently working on** — `patient-booking`, a Next.js + Prisma appointment booking app exploring clinical workflow UX.
 - 🤝 **Looking to collaborate on** — any AI-meets-product project, especially ones with real users.
 - 💬 **Ask me about** — getting into ML as a first-year, building with LLM APIs, or surviving CS at UofT.
-- ⚡ **Fun fact** — [add yours here]
-
-**Stack:** `Python` · `TypeScript` · `Next.js` · `React` · `PyTorch` · `Hugging Face`
-
-**Find me:** [LinkedIn](https://linkedin.com/in/jaitra-rewar) · [Instagram](https://instagram.com/jaitrarewar)
+- ⚡ **Fun fact** — still workshopping a good one. Ask me in person.
 
 ---
 ## 🌐 Socials:
