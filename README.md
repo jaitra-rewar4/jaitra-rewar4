@@ -13,5 +13,15 @@ First-year CS student at the University of Toronto. Mostly interested in AI and 
 **Find me:** [LinkedIn](https://linkedin.com/in/jaitra-rewar) · [Instagram](https://instagram.com/jaitrarewar)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jaitra-rewar4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jaitra-rewar4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaitra-rewar4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaitra-rewar4&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=jaitra-rewar4&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
