@@ -11,6 +11,8 @@ First-year CS student at the University of Toronto. Mostly interested in AI and 
 **Stack:** `Python` · `TypeScript` · `Next.js` · `React` · `PyTorch` · `Hugging Face`
 
 **Find me:** [LinkedIn](https://linkedin.com/in/jaitra-rewar) · [Instagram](https://instagram.com/jaitrarewar)
+# 💫 About Me:
+# Hi, I am Jaitra Rewar 👋<br><br>First-year CS student at the University of Toronto. Mostly interested in AI and the messy parts of building real software with it.<br><br>- 🧠 **Currently learning** — building transformers from scratch with Karpathy's *Neural Networks: Zero to Hero*, and getting hands-on with small fine-tuned LLMs on custom datasets.<br>- 🛠️ **Currently working on** — `patient-booking`, a Next.js + Prisma appointment booking app exploring clinical workflow UX.<br>- 🤝 **Looking to collaborate on** — any AI-meets-product project, especially ones with real users.<br>- 💬 **Ask me about** — getting into ML as a first-year, building with LLM APIs, or surviving CS at UofT.<br>- ⚡ **Fun fact** — [add yours here — one line, something specific]<br><br>**Stack I work with:** `Python` · `TypeScript` · `Next.js` · `React` · `PyTorch` · `Hugging Face`
 
 ---
 # 📊 GitHub Stats:
